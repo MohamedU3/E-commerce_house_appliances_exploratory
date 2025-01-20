@@ -11,3 +11,5 @@ My task task was to:
 - Describe bugs to enable developers to understand what is wrong and what is expected result
 - Order bugs in the order of priority - from most critical ones on top to less critical ones under
   
+# Challenge
+This task was relatively easy since the website was full of bugs however, since I was asked to prioritize the bugs from minor to major, the challenge was to find the "major" bugs which would really affect the website and the companies reputition. The website was full of minor bugs and it was a little tricky to find the major ones.
