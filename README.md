@@ -5,11 +5,11 @@ This project involved comprehensive testing of an e-commerce website for home ap
 ## Objectives
 -Functional Testing: Identified 10 critical functional bugs to enhance usability and user experience.
 -Non-Functional Testing: Discovered 2 significant issues in each of the following categories:
-1-Content Accuracy
-2-Visual Design
-3-Performance Metrics
-4-Cross-Browser Compatibility
-5-Cross-Device Functionality
+1-Content Accuracy.
+2-Visual Design.
+3-Performance Metrics.
+4-Cross-Browser Compatibility.
+5-Cross-Device Functionality.
 ## Methodology
 Documentation: All bugs were meticulously recorded in a Google Sheet, with detailed descriptions and expected outcomes to aid developer understanding.
 Prioritization: Bugs were ordered by priority, from most critical to least, ensuring efficient resolution of issues that could impact the website's functionality and the company's reputation.
