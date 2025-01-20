@@ -1,15 +1,17 @@
-# Purpose
-Exploratory testing on an E-commerce house appliances website
-# What I was assigned to do
-There was a site that had few weeks of development and, while from far looks like it is working, it has dozens of issues.
+## Project Overview
+# E-commerce Platform Testing
+This project involved comprehensive testing of an e-commerce website for home appliances, developed over a few weeks. Despite its initial appearance of functionality, the site contained numerous issues that required detailed analysis and resolution.
 
-Here is this site - https://qatest-dev.indvp.com/
-
-My task task was to:
-- Find 10 functional bugs and 2 bugs from each of the following bug types - content, visual, performance, cross-browser and cross-device on this site
-- Register them in a google sheet
-- Describe bugs to enable developers to understand what is wrong and what is expected result
-- Order bugs in the order of priority - from most critical ones on top to less critical ones under
-  
-# Challenge
-This task was relatively easy since the website was full of bugs however, since I was asked to prioritize the bugs from minor to major, the challenge was to find the "major" bugs which would really affect the website and the companies reputition. The website was full of minor bugs and it was a little tricky to find the major ones.
+# Objectives
+-Functional Testing: Identified 10 critical functional bugs to enhance usability and user experience.
+-Non-Functional Testing: Discovered 2 significant issues in each of the following categories:
+1-Content Accuracy
+2-Visual Design
+3-Performance Metrics
+4-Cross-Browser Compatibility
+5-Cross-Device Functionality
+# Methodology
+Documentation: All bugs were meticulously recorded in a Google Sheet, with detailed descriptions and expected outcomes to aid developer understanding.
+Prioritization: Bugs were ordered by priority, from most critical to least, ensuring efficient resolution of issues that could impact the website's functionality and the company's reputation.
+# Challenges
+The primary challenge was identifying major bugs amidst numerous minor issues. The focus was on those that significantly affected user experience and operational integrity.
