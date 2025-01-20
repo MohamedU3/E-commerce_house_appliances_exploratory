@@ -1,6 +1,6 @@
-# E-commerce_house_appliances_exploratory
+# Purpose
 Exploratory testing on an E-commerce house appliances website
-#Task
+# What I was assigned to do
 There was a site that had few weeks of development and, while from far looks like it is working, it has dozens of issues.
 
 Here is this site - https://qatest-dev.indvp.com/
